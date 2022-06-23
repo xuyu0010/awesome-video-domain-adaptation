@@ -37,12 +37,15 @@ This repository categorizes video domain adaptation papers according to the doma
 <!-- ## Survey -->
 
 ## Closed-set VDA
+
 **Conference**
-- Multi-Modal Domain Adaptation for Fine-Grained Action Recognition [[CVPR2020 Oral]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code)
-- Temporal Attentive Alignment for Large-Scale Video Domain Adaptation [[ICCV2019 Oral]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) [[Code-Pytorch]](https://github.com/olivesgatech/TA3N)
-- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Code-Pytorch]](https://github.com/olivesgatech/TA3N)
+
+- [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2020) Oral [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code) [[Project Page]](https://jonmun.github.io/mmsada/)
+- [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) Oral [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)  [[Project Page]](https://minhungchen.netlify.app/project/cdar/)
+- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)
 
 **Journal**
+
 
 **ArXiv**
 
@@ -58,3 +61,9 @@ We collect relevant datasets designed for video domain adaptation. Datasets are 
 - [UCF-HMDB _<sub>small</sub>_](https://github.com/olivesgatech/TA3N)
 (The original [link](http://cs.stanford.edu/people/karpathy/deepvideo) seems unreachable.)
 - [UCF-Olympic](https://github.com/olivesgatech/TA3N)
+
+# Useful Tools and Other Resources
+
+## Challenges for Video Domain Adaptation
+
+- [The 5<sup>th</sup> UG2<sup>+</sup> Prize Challenge: Bridging the Gap Between Computational Photography and Visual Recognition (Track 2)](http://cvpr2022.ug2challenge.org/track2.html) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2022)
