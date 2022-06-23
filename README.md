@@ -28,7 +28,7 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
 
 # Explanatory Notes
-This repository categorizes video domain adaptation papers according to the domain adaptation scenarios (i.e., closed-set, partial-set, source-free etc.). These include both semi-supervised, weakly-supervised and unsupervised DA. By default, VDA research focus on action recognition. For other tasks, related papers will be categorized into the relevant sub-categories.
+This repository categorizes video domain adaptation papers according to the domain adaptation scenarios (i.e., closed-set, partial-set, source-free etc.), sorted by date of publish/public appearance. These include both semi-supervised, weakly-supervised and unsupervised DA. By default, VDA research focus on action recognition. For other tasks, related papers will be categorized into the relevant sub-categories.
 
 <sup><sub>This repository is inspired by the [ADA](https://github.com/zhaoxin94/awesome-domain-adaptation) repository, a repository with awesome domain adaptation papers. For more research on domain adaptation (with images/point cloud etc.) you may check out that repository.</sub></sup>
 
@@ -37,5 +37,12 @@ This repository categorizes video domain adaptation papers according to the doma
 ## Survey
 
 ## Closed-set VDA
+**Conference**
+- Multi-Modal Domain Adaptation for Fine-Grained Action Recognition [[CVPR2020 Oral]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code)
 - Temporal Attentive Alignment for Large-Scale Video Domain Adaptation [[ICCV2019 Oral]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) [[Code-Pytorch]](https://github.com/olivesgatech/TA3N)
 - Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Code-Pytorch]](https://github.com/olivesgatech/TA3N)
+
+**Journal**
+
+**ArXiv**
+
