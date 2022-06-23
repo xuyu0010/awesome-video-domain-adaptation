@@ -47,4 +47,14 @@ This repository categorizes video domain adaptation papers according to the doma
 **ArXiv**
 
 
-# Benchmarks
+# Datasets
+We collect relevant datasets designed for video domain adaptation. Datasets are designed for __closed-set__ video domain adaptation addressing __action recognition by default__. Note that downloading some datasets may require permissions. You are advised to download common action recognition datasets e.g., [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/), [UCF101](https://www.crcv.ucf.edu/data/UCF101.php), [Kinetics](https://www.deepmind.com/open-source/kinetics), which are commonly used in these cross-domain video datasets.
+
+- [Sports-DA](https://xuyu0010.github.io/msvda.html#data-download)
+- [Daily-DA](https://xuyu0010.github.io/msvda.html#data-download)
+- [HMDB-ARID](https://xuyu0010.github.io/vuda.html#papers-and-download) [The Full ARID (v1.0)](https://xuyu0010.github.io/arid.html#papers-and-download)
+- [Epic-Kitchens Download](https://github.com/jonmun/MM-SADA-code) [Epic-Kitchens Splits](https://github.com/jonmun/MM-SADA_Domain_Adaptation_Splits) [The Full Epic-Kitchens](https://epic-kitchens.github.io/2022)
+- [UCF-HMDB _<sub>full</sub>_](https://github.com/olivesgatech/TA3N)
+- [UCF-HMDB _<sub>small</sub>_](https://github.com/olivesgatech/TA3N)
+<sup><sub>The original [link](http://cs.stanford.edu/people/karpathy/deepvideo) seems unreachable.</sub></sup>
+- [UCF-Olympic](https://github.com/olivesgatech/TA3N)
