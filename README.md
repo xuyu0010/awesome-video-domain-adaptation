@@ -34,7 +34,7 @@ This repository categorizes video domain adaptation papers according to the doma
 
 # Papers
 
-## Survey
+<!-- ## Survey -->
 
 ## Closed-set VDA
 **Conference**
