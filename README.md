@@ -12,18 +12,18 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 - [Contents](#contents)
 - [Explanatory Notes](#explanatory-notes)
 - [Papers](#papers)
-	- [Survey](#survey)
+	<!-- - [Survey](#survey) -->
 	- [Closed-set VDA](#closed-set-vda)
 	- [Partial-set VDA](#partial-set-vda)
 	- [Open-set VDA](#open-set-vda)
 	- [Universal VDA](#universal-vda)
 	- [Multi-Source VDA](#multi-source-vda)
-	- [Multi-Target VDA](#multi-target-vda)
+	<!-- - [Multi-Target VDA](#multi-target-vda) -->
 	- [Source-Free or Test-time VDA](#source-free-or-test-time-vda)
 	- [Black-box VDA](#black-box-vda)
-	- [Zero-shot or Few-shot VDA](#zero-shot-or-few-shot-vda)
-	- [Active VDA](#active-vda)
-	- [Other Topics in Video Transfer Learning](other-topics-in-video-transfer-learning)
+	<!-- - [Zero-shot or Few-shot VDA](#zero-shot-or-few-shot-vda) -->
+	<!-- - [Active VDA](#active-vda) -->
+	<!-- - [Other Topics in Video Transfer Learning](other-topics-in-video-transfer-learning) -->
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
 
