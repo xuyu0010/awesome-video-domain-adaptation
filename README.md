@@ -56,5 +56,7 @@ We collect relevant datasets designed for video domain adaptation. Datasets are 
 - [Epic-Kitchens Download](https://github.com/jonmun/MM-SADA-code) [Epic-Kitchens Splits](https://github.com/jonmun/MM-SADA_Domain_Adaptation_Splits) [The Full Epic-Kitchens](https://epic-kitchens.github.io/2022)
 - [UCF-HMDB _<sub>full</sub>_](https://github.com/olivesgatech/TA3N)
 - [UCF-HMDB _<sub>small</sub>_](https://github.com/olivesgatech/TA3N)
+
 <sup><sub>The original [link](http://cs.stanford.edu/people/karpathy/deepvideo) seems unreachable.</sub></sup>
+
 - [UCF-Olympic](https://github.com/olivesgatech/TA3N)
