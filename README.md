@@ -10,7 +10,7 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 # Contents
 - [awesome-video-domain-adaptation](#awesome-video-domain-adaptation)
 - [Contents](#contents)
-- [Explanatory Notes](explanatory-notes)
+- [Explanatory Notes](#explanatory-notes)
 - [Papers](#papers)
 	- [Survey](#survey)
 	- [Closed-set VDA](#closed-set-vda)
