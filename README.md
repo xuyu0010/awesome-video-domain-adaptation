@@ -40,30 +40,40 @@ This repository categorizes video domain adaptation papers according to the doma
 
 **Conference**
 
+- [Audio-Adaptive Activity Recognition Across Video Domains](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Audio-Adaptive_Activity_Recognition_Across_Video_Domains_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Code-PyTorch]](https://github.com/xiaobai1217/DomainAdaptation) [[Project Page]](https://xiaobai1217.github.io/DomainAdaptation/)
 - [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2020) Oral [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code) [[Project Page]](https://jonmun.github.io/mmsada/)
 - [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) Oral [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)  [[Project Page]](https://minhungchen.netlify.app/project/cdar/)
-- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)
+- [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://ieeexplore.ieee.org/document/8578870) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2018) [[Code-PyTorch]](https://github.com/gsig/actor-observer)
 
 **Journal**
 
 
-**ArXiv**
+**ArXiv and Workshops**
+- [Temporal Attentive Alignment for Video Domain Adaptation](https://arxiv.org/abs/1905.10861v5) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2019) [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)
 
 
 # Datasets
 We collect relevant datasets designed for video domain adaptation. Datasets are designed for __closed-set__ video domain adaptation addressing __action recognition__ by default. Note that downloading some datasets may require permissions. You are advised to download common action recognition datasets e.g., [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/), [UCF101](https://www.crcv.ucf.edu/data/UCF101.php), [Kinetics](https://www.deepmind.com/open-source/kinetics), which are commonly used in these cross-domain video datasets.
 
+**2021-2022**
 - [Sports-DA](https://xuyu0010.github.io/msvda.html#data-download)
 - [Daily-DA](https://xuyu0010.github.io/msvda.html#data-download)
 - [HMDB-ARID](https://xuyu0010.github.io/vuda.html#papers-and-download) [(The Full ARID (v1.0))](https://xuyu0010.github.io/arid.html#papers-and-download)
+- [ActorShift](https://xiaobai1217.github.io/DomainAdaptation/) 
+
+**2018-2020**
 - [Epic-Kitchens Download](https://github.com/jonmun/MM-SADA-code) [(Epic-Kitchens Splits)](https://github.com/jonmun/MM-SADA_Domain_Adaptation_Splits) [(The Full Epic-Kitchens)](https://epic-kitchens.github.io/2022)
-- [UCF-HMDB _<sub>full</sub>_](https://github.com/olivesgatech/TA3N)
-- [UCF-HMDB _<sub>small</sub>_](https://github.com/olivesgatech/TA3N)
+- [UCF-HMDB _<sub>full</sub>_](https://github.com/cmhungsteve/TA3N)
+- [Charades-Ego](https://prior.allenai.org/projects/charades-ego)
+
+**Before 2015**
+- [UCF-HMDB _<sub>small</sub>_](https://github.com/cmhungsteve/TA3N)
 (The original [link](http://cs.stanford.edu/people/karpathy/deepvideo) seems unreachable.)
-- [UCF-Olympic](https://github.com/olivesgatech/TA3N)
+- [UCF-Olympic](https://github.com/cmhungsteve/TA3N)
 
 # Useful Tools and Other Resources
 
 ## Challenges for Video Domain Adaptation
-
-- [The 5<sup>th</sup> UG2<sup>+</sup> Prize Challenge: Bridging the Gap Between Computational Photography and Visual Recognition (Track 2)](http://cvpr2022.ug2challenge.org/track2.html) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2022)
+*Note: these are the latest editions of the respective challenges, please check their previous versions through their respective websites*
+- [5<sup>th</sup> UG2<sup>+</sup> Prize Challenge: Bridging the Gap Between Computational Photography and Visual Recognition (Track 2)](http://cvpr2022.ug2challenge.org/track2.html) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2022) [2022 UG2+ Workshop](http://cvpr2022.ug2challenge.org/program22.html)
+- [Epic-Kitchens-100 2022 Challenge: Domain Adaptation for Action Recognition](https://epic-kitchens.github.io/2022#challenge-domain-adaptation) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2022) [EPIC@CVPR2022 Workshop](https://eyewear-computing.org/EPIC_CVPR22/)
