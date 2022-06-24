@@ -1,4 +1,4 @@
-# awesome-video-domain-adaptation
+# Awesome Video Domain Adaptation
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
 __This repo is a comprehensive collection of awesome research (papers, codes, etc.) and other items about video domain adaptation.__ 
