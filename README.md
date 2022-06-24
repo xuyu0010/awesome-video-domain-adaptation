@@ -8,7 +8,6 @@ Domain adaptation has been a focus of research in transfer learning, enabling mo
 _Feel free to star, fork or raise an issue to include your research or to add in more categories! Discussion is most welcomed!_
 
 # Contents
-- [awesome-video-domain-adaptation](#awesome-video-domain-adaptation)
 - [Contents](#contents)
 - [Explanatory Notes](#explanatory-notes)
 - [Papers](#papers)
