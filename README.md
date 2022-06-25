@@ -68,7 +68,7 @@ We collect relevant datasets designed for video domain adaptation. Datasets are 
 - [Daily-DA](https://xuyu0010.github.io/msvda.html#data-download)
 - [HMDB-ARID](https://xuyu0010.github.io/vuda.html#papers-and-download) [(The Full ARID (v1.0))](https://xuyu0010.github.io/arid.html#papers-and-download)
 - [ActorShift](https://xiaobai1217.github.io/DomainAdaptation/)
-- [Mixamo &rarr Kinetics](https://github.com/vturrisi/CO2A)
+- [Mixamo&rarr;Kinetics](https://github.com/vturrisi/CO2A)
 - [UCF-HMDB _<sub>partial</sub>_](https://xuyu0010.github.io/pvda.html#papers-notes-and-download) (Partial-set)
 - [HMDB-ARID _<sub>partial</sub>_](https://xuyu0010.github.io/pvda.html#papers-notes-and-download) (Partial-set)
 - [MiniKinetics-UCF](https://xuyu0010.github.io/pvda.html#papers-notes-and-download) (Partial-set)
