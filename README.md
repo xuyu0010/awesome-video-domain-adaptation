@@ -61,6 +61,12 @@ This repository categorizes video domain adaptation papers according to the doma
 - [Partial Video Domain Adaptation With Partial Adversarial Temporal Attentive Network](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Partial_Video_Domain_Adaptation_With_Partial_Adversarial_Temporal_Attentive_Network_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021) Oral [[Code-PyTorch]](https://github.com/xuyu0010/PATAN) [[Project Page]](https://xuyu0010.github.io/pvda.html)
 
 
+## Multi-Source VDA
+
+**ArXiv and Workshops**
+- [Multi-Source Video Domain Adaptation with Temporal Attentive Moment Alignment](https://arxiv.org/abs/2109.09964) ArXiv 2109.09964 [[Project Page]](https://xuyu0010.github.io/msvda.html)
+
+
 # Datasets
 We collect relevant datasets designed for video domain adaptation. Datasets are designed for __closed-set__ video domain adaptation addressing __action recognition__ by default. Note that downloading some datasets may require permissions. You are advised to download common action recognition datasets e.g., [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/), [UCF101](https://www.crcv.ucf.edu/data/UCF101.php), [Kinetics](https://www.deepmind.com/open-source/kinetics), which are commonly used in these cross-domain video datasets.
 
