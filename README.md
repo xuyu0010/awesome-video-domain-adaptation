@@ -7,6 +7,7 @@ Domain adaptation has been a focus of research in transfer learning, enabling mo
 
 _Feel free to star, fork or raise an issue to include your research or to add in more categories! Discussion is most welcomed!_
 
+
 # Contents
 - [Contents](#contents)
 - [Explanatory Notes](#explanatory-notes)
@@ -26,10 +27,12 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
 
+
 # Explanatory Notes
 This repository categorizes video domain adaptation papers according to the domain adaptation scenarios (i.e., closed-set, partial-set, source-free etc.), sorted by date of publish/public appearance. These include both semi-supervised, weakly-supervised and unsupervised DA. By default, VDA research focus on action recognition. For other tasks, related papers will be categorized into the relevant sub-categories.
 
 <sup><sub>This repository is inspired by the [ADA](https://github.com/zhaoxin94/awesome-domain-adaptation) repository, a repository with awesome domain adaptation papers. For more research on domain adaptation (with images/point cloud etc.) you may check out that repository.</sub></sup>
+
 
 # Papers
 
@@ -40,6 +43,7 @@ This repository categorizes video domain adaptation papers according to the doma
 **Conference**
 - [Audio-Adaptive Activity Recognition Across Video Domains](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Audio-Adaptive_Activity_Recognition_Across_Video_Domains_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Code-PyTorch]](https://github.com/xiaobai1217/DomainAdaptation) [[Project Page]](https://xiaobai1217.github.io/DomainAdaptation/)
 - [Interact before Align: Leveraging Cross-Modal Knowledge for Domain Adaptive Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Interact_Before_Align_Leveraging_Cross-Modal_Knowledge_for_Domain_Adaptive_Action_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Project Page]](https://www.ut-vision.org/publication/2022-yang-interact/)
+- [Multi-Level Attentive Adversarial Learning With Temporal Dilation for Unsupervised Video Domain Adaptation](https://openaccess.thecvf.com/content/WACV2022/papers/Chen_Multi-Level_Attentive_Adversarial_Learning_With_Temporal_Dilation_for_Unsupervised_Video_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022) [[Code-PyTorch]](https://github.com/justchenpp/MA2L-TD)
 - [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2020) Oral [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code) [[Project Page]](https://jonmun.github.io/mmsada/)
 - [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) Oral [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)  [[Project Page]](https://minhungchen.netlify.app/project/cdar/)
 - [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://ieeexplore.ieee.org/document/8578870) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2018) [[Code-PyTorch]](https://github.com/gsig/actor-observer)
@@ -64,6 +68,7 @@ We collect relevant datasets designed for video domain adaptation. Datasets are 
 - [Daily-DA](https://xuyu0010.github.io/msvda.html#data-download)
 - [HMDB-ARID](https://xuyu0010.github.io/vuda.html#papers-and-download) [(The Full ARID (v1.0))](https://xuyu0010.github.io/arid.html#papers-and-download)
 - [ActorShift](https://xiaobai1217.github.io/DomainAdaptation/)
+- [[Mixamo $\to$ Kinetics]](https://github.com/vturrisi/CO2A)
 - [UCF-HMDB _<sub>partial</sub>_](https://xuyu0010.github.io/pvda.html#papers-notes-and-download) (Partial-set)
 - [HMDB-ARID _<sub>partial</sub>_](https://xuyu0010.github.io/pvda.html#papers-notes-and-download) (Partial-set)
 - [MiniKinetics-UCF](https://xuyu0010.github.io/pvda.html#papers-notes-and-download) (Partial-set)
