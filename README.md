@@ -31,7 +31,7 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 # Explanatory Notes
 This repository categorizes video domain adaptation papers according to the domain adaptation scenarios (i.e., closed-set, partial-set, source-free etc.), sorted by date of publish/public appearance. These include both semi-supervised, weakly-supervised and unsupervised DA. By default, VDA research focus on action recognition. For other tasks, related papers will be categorized into the relevant sub-categories.
 
-<sup><sub>This repository is inspired by the [ADA](https://github.com/zhaoxin94/awesome-domain-adaptation) repository, a repository with awesome domain adaptation papers. For more research on domain adaptation (with images/point cloud etc.) you may check out that repository.</sub></sup>
+Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awesome-domain-adaptation) repository, a repository with awesome domain adaptation papers. For more research on domain adaptation (with images/point cloud etc.) you may check out that repository.*
 
 
 # Papers
