@@ -23,7 +23,7 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 	- [Black-box VDA](#black-box-vda)
 	<!-- - [Zero-shot or Few-shot VDA](#zero-shot-or-few-shot-vda) -->
 	<!-- - [Active VDA](#active-vda) -->
-	<!-- - [Other Topics in Video Transfer Learning](other-topics-in-video-transfer-learning) -->
+	- [Other Topics in Video Transfer Learning](other-topics-in-video-transfer-learning)
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
 
@@ -65,6 +65,12 @@ This repository categorizes video domain adaptation papers according to the doma
 
 **ArXiv and Workshops**
 - [Multi-Source Video Domain Adaptation with Temporal Attentive Moment Alignment](https://arxiv.org/abs/2109.09964) ArXiv 2109.09964 [[Project Page]](https://xuyu0010.github.io/msvda.html)
+
+
+## Other Topics in Video Transfer Learning
+
+**Conference**
+- [Domain Generalization through Audio-Visual Relative Norm Alignment in First Person Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022)
 
 
 # Datasets
