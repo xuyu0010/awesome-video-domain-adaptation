@@ -19,7 +19,7 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 	- [Multi-Source VDA](#multi-source-vda)
 	- [Source-Free or Test-time VDA](#source-free-or-test-time-vda)
 	- [Black-box VDA](#black-box-vda)
-	- [Other Topics in Video Transfer Learning](other-topics-in-video-transfer-learning)
+	- [Other Topics in Video Transfer Learning](#other-topics-in-video-transfer-learning)
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
 
