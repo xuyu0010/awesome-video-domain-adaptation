@@ -77,6 +77,12 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Multi-Source Video Domain Adaptation with Temporal Attentive Moment Alignment](https://arxiv.org/abs/2109.09964) ArXiv 2109.09964 [[Project Page]](https://xuyu0010.github.io/msvda.html)
 
 
+## Source-Free or Test-time VDA
+
+**ArXiv and Workshops**
+- [Learning Temporal Consistency for Source-Free Video Domain Adaptation](https://arxiv.org/abs/2203.04559) ArXiv 2203.04559
+
+
 ## Other Topics in Video Transfer Learning
 
 **Conference**
