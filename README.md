@@ -12,21 +12,22 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 - [Contents](#contents)
 - [Explanatory Notes](#explanatory-notes)
 - [Papers](#papers)
-	<!-- - [Survey](#survey) -->
 	- [Closed-set VDA](#closed-set-vda)
 	- [Partial-set VDA](#partial-set-vda)
 	- [Open-set VDA](#open-set-vda)
 	- [Universal VDA](#universal-vda)
 	- [Multi-Source VDA](#multi-source-vda)
-	<!-- - [Multi-Target VDA](#multi-target-vda) -->
 	- [Source-Free or Test-time VDA](#source-free-or-test-time-vda)
 	- [Black-box VDA](#black-box-vda)
-	<!-- - [Zero-shot or Few-shot VDA](#zero-shot-or-few-shot-vda) -->
-	<!-- - [Active VDA](#active-vda) -->
 	- [Other Topics in Video Transfer Learning](other-topics-in-video-transfer-learning)
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
 
+
+<!-- - [Survey](#survey) -->
+<!-- - [Multi-Target VDA](#multi-target-vda) -->
+<!-- - [Zero-shot or Few-shot VDA](#zero-shot-or-few-shot-vda) -->
+<!-- - [Active VDA](#active-vda) -->
 
 # Explanatory Notes
 This repository categorizes video domain adaptation papers according to the domain adaptation scenarios (i.e., closed-set, partial-set, source-free etc.), sorted by date of publish/public appearance. These include both semi-supervised, weakly-supervised and unsupervised DA. By default, VDA research focus on action recognition. For other tasks, the corresponding task would be annotated independently.
@@ -45,6 +46,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Interact before Align: Leveraging Cross-Modal Knowledge for Domain Adaptive Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Interact_Before_Align_Leveraging_Cross-Modal_Knowledge_for_Domain_Adaptive_Action_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Project Page]](https://www.ut-vision.org/publication/2022-yang-interact/)
 - [Multi-Level Attentive Adversarial Learning With Temporal Dilation for Unsupervised Video Domain Adaptation](https://openaccess.thecvf.com/content/WACV2022/papers/Chen_Multi-Level_Attentive_Adversarial_Learning_With_Temporal_Dilation_for_Unsupervised_Video_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022) [[Code-PyTorch]](https://github.com/justchenpp/MA2L-TD)
 - [Dual-Head Contrastive Domain Adaptation for Video Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/da_Costa_Dual-Head_Contrastive_Domain_Adaptation_for_Video_Action_Recognition_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022) [[Code-PyTorch]](https://github.com/vturrisi/CO2A)
+- [Learning Cross-Modal Contrastive Features for Video Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_Cross-Modal_Contrastive_Features_for_Video_Domain_Adaptation_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021)
 - [Domain Adaptive Video Segmentation via Temporal Consistency Regularization](https://openaccess.thecvf.com/content/ICCV2021/papers/Guan_Domain_Adaptive_Video_Segmentation_via_Temporal_Consistency_Regularization_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021) [[Code-PyTorch]](https://github.com/Dayan-Guan/DA-VSN) (*Video Segmentation*)
 - [Unsupervised Curriculum Domain Adaptation for No-Reference Video Quality Assessment](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Unsupervised_Curriculum_Domain_Adaptation_for_No-Reference_Video_Quality_Assessment_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021) [[Code-PyTorch]](https://github.com/cpf0079/UCDA) (*Video Quality Assessment (VQA)*)
 - [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2020) Oral [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code) [[Project Page]](https://jonmun.github.io/mmsada/)
