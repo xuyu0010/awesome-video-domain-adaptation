@@ -56,6 +56,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Adversarial Cross-Domain Action Recognition with Co-Attention](https://arxiv.org/pdf/1912.10405.pdf) AAAI Conference on Artificial Intelligence (AAAI) (2020)
 - [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) Oral [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)  [[Project Page]](https://minhungchen.netlify.app/project/cdar/)
 - [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://ieeexplore.ieee.org/document/8578870) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2018) [[Code-PyTorch]](https://github.com/gsig/actor-observer)
+- [Deep Domain Adaptation in Action Space](http://bmvc2018.org/contents/papers/0960.pdf) British Machine Vision Conference (BMVC) (2018)
 
 **Journal**
 - [Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100](https://link.springer.com/article/10.1007/s11263-021-01531-2) International Journal of Computer Vision volume 130, pages 33–55 (2022) (Open Access)
