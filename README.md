@@ -70,6 +70,9 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 **Conference**
 - [Partial Video Domain Adaptation With Partial Adversarial Temporal Attentive Network](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Partial_Video_Domain_Adaptation_With_Partial_Adversarial_Temporal_Attentive_Network_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021) Oral [[Code-PyTorch]](https://github.com/xuyu0010/PATAN) [[Project Page]](https://xuyu0010.github.io/pvda.html)
 
+**ArXiv and Workshops**
+- [Calibrating Class Weights with Multi-Modal Information for Partial Video Domain Adaptation](https://arxiv.org/abs/2204.06187) ArXiv 2204.06187 (*Accepted to ACMMM 2022*)
+
 
 ## Open-set VDA
 
@@ -86,7 +89,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Source-Free or Test-time VDA
 
 **ArXiv and Workshops**
-- [Learning Temporal Consistency for Source-Free Video Domain Adaptation](https://arxiv.org/abs/2203.04559) ArXiv 2203.04559
+- [Learning Temporal Consistency for Source-Free Video Domain Adaptation](https://arxiv.org/abs/2203.04559) ArXiv 2203.04559 (*Accepted to ECCV 2022*)
 
 
 ## Other Topics in Video Transfer Learning
