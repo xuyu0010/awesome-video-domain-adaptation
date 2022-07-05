@@ -65,6 +65,10 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 **Journal**
 - [Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100](https://link.springer.com/article/10.1007/s11263-021-01531-2) International Journal of Computer Vision, Volume 130, Pages 33–55 (2022) (Open Access)
 - [Dynamic video mix-up for cross-domain action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221017318) Neurocomputing, Volume 471, Pages 358-368 (2022)
+- [Pairwise Two-Stream ConvNets for Cross-Domain Action Recognition With Small Data](https://ieeexplore.ieee.org/document/9288873) IEEE Transactions on Neural Networks and Learning Systems, Volume 33, Pages 1147-1161 (2020) 
+- [A Pairwise Attentive Adversarial Spatiotemporal Network for Cross-Domain Few-Shot Action Recognition-R2](https://ieeexplore.ieee.org/document/9268986) IEEE Transactions on Image Processing, Volume 30, Pages 767-782 (2020)
+- [Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition](https://ieeexplore.ieee.org/document/8931264) IEEE Transactions on Image Processing, Volume 29, Pages 3168-3182 (2019) [[Project Page]](https://yangliu9208.github.io/DIVAFN/)
+- [Multi-Domain and Multi-Task Learning for Human Action Recognition](https://ieeexplore.ieee.org/iel7/83/8478029/08476540.pdf) IEEE Transactions on Image Processing, Volume 28, Pages 853-867 (2019)
 - [Evaluation of local spatial–temporal features for cross-view action recognition](https://www.sciencedirect.com/science/article/pii/S092523121501125X) Neurocomputing, Volume 173, Pages 110-117 (2016)
 
 **ArXiv and Workshops**
