@@ -37,8 +37,6 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 
 # Papers
 
-<!-- ## Survey -->
-
 ## Closed-set VDA
 
 **Conference**
@@ -53,7 +51,13 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Spatio-temporal Contrastive Domain Adaptation for Action Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Song_Spatio-temporal_Contrastive_Domain_Adaptation_for_Action_Recognition_CVPR_2021_paper.html) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2021)
 - [Shuffle and Attend: Video Domain Adaptation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570664.pdf) European Conference on Computer Vision (ECCV) (2020)
 - [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2020) Oral [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code) [[Project Page]](https://jonmun.github.io/mmsada/)
+- [Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Action_Segmentation_With_Joint_Self-Supervised_Temporal_Domain_Adaptation_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) [[Code-PyTorch]](https://github.com/cmhungsteve/SSTDA) [[Project Page]](https://minhungchen.netlify.app/project/cdas/)
+- [Transferring Cross-domain Knowledge for Video Sign Language Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Transferring_Cross-Domain_Knowledge_for_Video_Sign_Language_Recognition_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) Oral (*Video Sign Language Recognition*)
 - [Adversarial Cross-Domain Action Recognition with Co-Attention](https://arxiv.org/pdf/1912.10405.pdf) AAAI Conference on Artificial Intelligence (AAAI) (2020)
+- [Generative Adversarial Networks for Video-to-Video Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/5750) AAAI Conference on Artificial Intelligence (AAAI) (2020) (*Video Translation (Generation)*)
+- [Action Segmentation with Mixed Temporal Domain Adaptation](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Action_Segmentation_with_Mixed_Temporal_Domain_Adaptation_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020) (*Action Segmentation*)
+- [Unsupervised and Semi-Supervised Domain Adaptation for Action Recognition from Drones](https://openaccess.thecvf.com/content_WACV_2020/papers/Choi_Unsupervised_and_Semi-Supervised_Domain_Adaptation_for_Action_Recognition_from_Drones_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020)
+- [Image to Video Domain Adaptation Using Web Supervision](https://openaccess.thecvf.com/content_WACV_2020/papers/Kae_Image_to_Video_Domain_Adaptation_Using_Web_Supervision_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020)
 - [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) Oral [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)  [[Project Page]](https://minhungchen.netlify.app/project/cdar/)
 - [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://ieeexplore.ieee.org/document/8578870) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2018) [[Code-PyTorch]](https://github.com/gsig/actor-observer)
 - [Deep Domain Adaptation in Action Space](http://bmvc2018.org/contents/papers/0960.pdf) British Machine Vision Conference (BMVC) (2018)
@@ -119,6 +123,7 @@ We collect relevant datasets designed for video domain adaptation. Datasets are 
 **2018-2020**
 - [Epic-Kitchens Download](https://github.com/jonmun/MM-SADA-code) [(Epic-Kitchens Splits)](https://github.com/jonmun/MM-SADA_Domain_Adaptation_Splits) [(The Full Epic-Kitchens)](https://epic-kitchens.github.io/2022)
 - [UCF-HMDB _<sub>full</sub>_](https://github.com/cmhungsteve/TA3N)
+- [Kinetics-Gameplay](https://github.com/cmhungsteve/TA3N) (*Permission Needed*)
 - [Charades-Ego](https://prior.allenai.org/projects/charades-ego)
 - [Kinetics&rarr;NEC-Drone](https://www.nec-labs.com/~mas/NEC-Drone/)
 
