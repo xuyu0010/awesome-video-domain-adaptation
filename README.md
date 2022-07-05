@@ -63,7 +63,9 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Deep Domain Adaptation in Action Space](http://bmvc2018.org/contents/papers/0960.pdf) British Machine Vision Conference (BMVC) (2018)
 
 **Journal**
-- [Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100](https://link.springer.com/article/10.1007/s11263-021-01531-2) International Journal of Computer Vision volume 130, pages 33–55 (2022) (Open Access)
+- [Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100](https://link.springer.com/article/10.1007/s11263-021-01531-2) International Journal of Computer Vision, Volume 130, Pages 33–55 (2022) (Open Access)
+- [Dynamic video mix-up for cross-domain action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221017318) Neurocomputing, Volume 471, Pages 358-368 (2022)
+- [Evaluation of local spatial–temporal features for cross-view action recognition](https://www.sciencedirect.com/science/article/pii/S092523121501125X) Neurocomputing, Volume 173, Pages 110-117 (2016)
 
 **ArXiv and Workshops**
 - [Aligning Correlation Information for Domain Adaptation in Action Recognition](https://arxiv.org/abs/2107.04932) ArXiv 2107.04932 [[Project Page]](https://xuyu0010.github.io/vuda.html)
