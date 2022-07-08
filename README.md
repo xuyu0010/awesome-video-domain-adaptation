@@ -103,14 +103,21 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Learning Temporal Consistency for Source-Free Video Domain Adaptation](https://arxiv.org/abs/2203.04559) ArXiv 2203.04559 (*Accepted to ECCV 2022*)
 
 
+## Zero-shot VDA (Video Domain Generalization)
+
+**Conference**
+- [Domain Generalization through Audio-Visual Relative Norm Alignment in First Person Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022)
+
+**Journal**
+- [VideoDG: generalizing temporal relations in videos to novel domains](https://ieeexplore.ieee.org/abstract/document/9556560) IEEE Transactions on Pattern Analysis and Machine Intelligence (2021)
+
+
 ## Other Topics in Video Transfer Learning
 
 **Conference**
-- [Domain Generalization through Audio-Visual Relative Norm Alignment in First Person Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022) (*Video Domain Generalization*)
 - [Benchmarking the robustness of Spatial-Temporal Models](https://openreview.net/forum?id=MQlMIrm3Hv5) The Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track (2021) [[Code-TensorFlow]](https://github.com/Newbeeyoung/Video-Corruption-Robustness) (*Video Robustness*)
 
-**Journal**
-- [VideoDG: generalizing temporal relations in videos to novel domains](https://ieeexplore.ieee.org/abstract/document/9556560) IEEE Transactions on Pattern Analysis and Machine Intelligence (2021) (*Video Domain Generalization*)
+<!-- **Journal** -->
 
 
 # Datasets
