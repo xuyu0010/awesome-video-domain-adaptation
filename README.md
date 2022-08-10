@@ -100,7 +100,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Source-Free or Test-time VDA
 
 **ArXiv and Workshops**
-- [Learning Temporal Consistency for Source-Free Video Domain Adaptation](https://arxiv.org/abs/2203.04559) ArXiv 2203.04559 (*Accepted to ECCV 2022*)
+- [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://arxiv.org/abs/2203.04559) ArXiv 2203.04559 (*Accepted to ECCV 2022*)
 
 
 ## Zero-shot VDA (Video Domain Generalization)
