@@ -57,7 +57,6 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Generative Adversarial Networks for Video-to-Video Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/5750) AAAI Conference on Artificial Intelligence (AAAI) (2020) (*Video Translation (Generation)*)
 - [Action Segmentation with Mixed Temporal Domain Adaptation](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Action_Segmentation_with_Mixed_Temporal_Domain_Adaptation_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020) (*Action Segmentation*)
 - [Unsupervised and Semi-Supervised Domain Adaptation for Action Recognition from Drones](https://openaccess.thecvf.com/content_WACV_2020/papers/Choi_Unsupervised_and_Semi-Supervised_Domain_Adaptation_for_Action_Recognition_from_Drones_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020)
-- [Image to Video Domain Adaptation Using Web Supervision](https://openaccess.thecvf.com/content_WACV_2020/papers/Kae_Image_to_Video_Domain_Adaptation_Using_Web_Supervision_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020)
 - [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) Oral [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N)  [[Project Page]](https://minhungchen.netlify.app/project/cdar/)
 - [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://ieeexplore.ieee.org/document/8578870) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2018) [[Code-PyTorch]](https://github.com/gsig/actor-observer)
 - [Deep Domain Adaptation in Action Space](http://bmvc2018.org/contents/papers/0960.pdf) British Machine Vision Conference (BMVC) (2018)
@@ -116,6 +115,8 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 
 **Conference**
 - [Benchmarking the robustness of Spatial-Temporal Models](https://openreview.net/forum?id=MQlMIrm3Hv5) The Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track (2021) [[Code-TensorFlow]](https://github.com/Newbeeyoung/Video-Corruption-Robustness) (*Video Robustness*)
+- [Image to Video Domain Adaptation Using Web Supervision](https://openaccess.thecvf.com/content_WACV_2020/papers/Kae_Image_to_Video_Domain_Adaptation_Using_Web_Supervision_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020) (*Image-to-Video*)
+- [DistInit: Learning Video Representations Without a Single Labeled Video](https://openaccess.thecvf.com/content_ICCV_2019/papers/Girdhar_DistInit_Learning_Video_Representations_Without_a_Single_Labeled_Video_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) (*Image-to-Video*)
 
 <!-- **Journal** -->
 
