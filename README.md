@@ -89,10 +89,10 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 **Conference**
 - [Dual Metric Discriminator for Open Set Video Domain Adaptation](https://ieeexplore.ieee.org/document/9413361) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021)
 
-## Universal VDA
+<!-- ## Universal VDA -->
 
-**Conference**
-- [Unsupervised and Semi-Supervised Domain Adaptation for Action Recognition from Drones](https://openaccess.thecvf.com/content_WACV_2020/papers/Choi_Unsupervised_and_Semi-Supervised_Domain_Adaptation_for_Action_Recognition_from_Drones_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020)
+<!-- **Conference** -->
+<!-- - [Unsupervised and Semi-Supervised Domain Adaptation for Action Recognition from Drones](https://openaccess.thecvf.com/content_WACV_2020/papers/Choi_Unsupervised_and_Semi-Supervised_Domain_Adaptation_for_Action_Recognition_from_Drones_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020) -->
 
 
 ## Multi-Source VDA
