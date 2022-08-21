@@ -71,6 +71,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Evaluation of local spatial–temporal features for cross-view action recognition](https://www.sciencedirect.com/science/article/pii/S092523121501125X) Neurocomputing, Volume 173, Pages 110-117 (2016)
 
 **ArXiv and Workshops**
+- [Unsupervised Video Domain Adaptation: A Disentanglement Perspective](https://arxiv.org/abs/2208.07365) ArXiv 2208.07365 [[Code-PyTorch]](https://github.com/ldkong1205/TranSVAE) [[Project Page]](https://ldkong.com/TranSVAE)
 - [Aligning Correlation Information for Domain Adaptation in Action Recognition](https://arxiv.org/abs/2107.04932) ArXiv 2107.04932 [[Project Page]](https://xuyu0010.github.io/vuda.html)
 - [Temporal Attentive Alignment for Video Domain Adaptation](https://arxiv.org/abs/1905.10861v5) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2019) [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N) (Highly related to [TA3N]((http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf)))
 
