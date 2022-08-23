@@ -124,7 +124,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [DistInit: Learning Video Representations Without a Single Labeled Video](https://openaccess.thecvf.com/content_ICCV_2019/papers/Girdhar_DistInit_Learning_Video_Representations_Without_a_Single_Labeled_Video_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) (*Image-to-Video*)
 
 **Journal**
-- [Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition](https://ieeexplore.ieee.org/document/8931264) IEEE Transactions on Image Processing, Volume 29, Pages 3168-3182 (2019) [[Project Page]](https://yangliu9208.github.io/DIVAFN/)
+- [Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition](https://ieeexplore.ieee.org/document/8931264) IEEE Transactions on Image Processing, Volume 29, Pages 3168-3182 (2019) [[Project Page]](https://yangliu9208.github.io/DIVAFN/) (*Image-to-Video*)
 
 
 # Datasets
