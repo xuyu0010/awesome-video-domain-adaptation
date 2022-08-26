@@ -64,7 +64,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 **Journal**
 - [Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100](https://link.springer.com/article/10.1007/s11263-021-01531-2) International Journal of Computer Vision, Volume 130, Pages 33–55 (2022) (Open Access)
 - [Dynamic video mix-up for cross-domain action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221017318) Neurocomputing, Volume 471, Pages 358-368 (2022)
-- [A Novel Multiple-View Adversarial Learning Network for Unsupervised Domain Adaptation Action Recognition](https://ieeexplore.ieee.org/document/9543528) IEEE Transactions on Cybernetics, Early Access
+- [A Novel Multiple-View Adversarial Learning Network for Unsupervised Domain Adaptation Action Recognition](https://ieeexplore.ieee.org/document/9543528) IEEE Transactions on Cybernetics, Early Access (2021)
 - [A Pairwise Attentive Adversarial Spatiotemporal Network for Cross-Domain Few-Shot Action Recognition-R2](https://ieeexplore.ieee.org/document/9268986) IEEE Transactions on Image Processing, Volume 30, Pages 767-782 (2020)
 - [Pairwise Two-Stream ConvNets for Cross-Domain Action Recognition With Small Data](https://ieeexplore.ieee.org/document/9288873) IEEE Transactions on Neural Networks and Learning Systems, Volume 33, Pages 1147-1161 (2020) 
 - [Multi-Domain and Multi-Task Learning for Human Action Recognition](https://ieeexplore.ieee.org/iel7/83/8478029/08476540.pdf) IEEE Transactions on Image Processing, Volume 28, Pages 853-867 (2019)
