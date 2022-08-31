@@ -89,6 +89,9 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 **Conference**
 - [Dual Metric Discriminator for Open Set Video Domain Adaptation](https://ieeexplore.ieee.org/document/9413361) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021)
 
+**Journal**
+- [Open Set Domain Adaptation for Image and Action Recognition](https://ieeexplore.ieee.org/abstract/document/8531764) IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume 42, Issue 2 (2018)
+
 <!-- ## Universal VDA -->
 
 <!-- **Conference** -->
