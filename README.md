@@ -147,7 +147,7 @@ We collect relevant datasets designed for video domain adaptation. Datasets are 
 - [SYNTHIA-Seq&rarr;Cityscapes-Seq](https://github.com/Dayan-Guan/DA-VSN) (*Video Segmentation*)
 
 **2018-2020**
-- [Epic-Kitchens Download](https://github.com/jonmun/MM-SADA-code) [(Epic-Kitchens Splits)](https://github.com/jonmun/MM-SADA_Domain_Adaptation_Splits) [(The Full Epic-Kitchens)](https://epic-kitchens.github.io/2022)
+- [Epic-Kitchens](https://github.com/jonmun/MM-SADA-code) [(Epic-Kitchens Splits)](https://github.com/jonmun/MM-SADA_Domain_Adaptation_Splits) [(The Full Epic-Kitchens)](https://epic-kitchens.github.io/2022)
 - [UCF-HMDB _<sub>full</sub>_](https://github.com/cmhungsteve/TA3N)
 - [Kinetics-Gameplay](https://github.com/cmhungsteve/TA3N) (*Permission Needed*)
 - [Charades-Ego](https://prior.allenai.org/projects/charades-ego)
