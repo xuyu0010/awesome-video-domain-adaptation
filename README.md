@@ -67,7 +67,6 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [A Novel Multiple-View Adversarial Learning Network for Unsupervised Domain Adaptation Action Recognition](https://ieeexplore.ieee.org/document/9543528) IEEE Transactions on Cybernetics, Early Access (2021)
 - [A Pairwise Attentive Adversarial Spatiotemporal Network for Cross-Domain Few-Shot Action Recognition-R2](https://ieeexplore.ieee.org/document/9268986) IEEE Transactions on Image Processing, Volume 30, Pages 767-782 (2020)
 - [Pairwise Two-Stream ConvNets for Cross-Domain Action Recognition With Small Data](https://ieeexplore.ieee.org/document/9288873) IEEE Transactions on Neural Networks and Learning Systems, Volume 33, Pages 1147-1161 (2020) 
-- [Multi-Domain and Multi-Task Learning for Human Action Recognition](https://ieeexplore.ieee.org/iel7/83/8478029/08476540.pdf) IEEE Transactions on Image Processing, Volume 28, Pages 853-867 (2019)
 - [Evaluation of local spatial–temporal features for cross-view action recognition](https://www.sciencedirect.com/science/article/pii/S092523121501125X) Neurocomputing, Volume 173, Pages 110-117 (2016)
 
 **ArXiv and Workshops**
@@ -128,6 +127,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [DistInit: Learning Video Representations Without a Single Labeled Video](https://openaccess.thecvf.com/content_ICCV_2019/papers/Girdhar_DistInit_Learning_Video_Representations_Without_a_Single_Labeled_Video_ICCV_2019_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2019) (*Image-to-Video*)
 
 **Journal**
+- [Multi-Domain and Multi-Task Learning for Human Action Recognition](https://ieeexplore.ieee.org/iel7/83/8478029/08476540.pdf) IEEE Transactions on Image Processing, Volume 28, Pages 853-867 (2019)
 - [Deep Image-to-Video Adaptation and Fusion Networks for Action Recognition](https://ieeexplore.ieee.org/document/8931264) IEEE Transactions on Image Processing, Volume 29, Pages 3168-3182 (2019) [[Project Page]](https://yangliu9208.github.io/DIVAFN/) (*Image-to-Video*)
 
 
