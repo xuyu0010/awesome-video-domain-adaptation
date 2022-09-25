@@ -15,10 +15,9 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 	- [Closed-set VDA](#closed-set-vda)
 	- [Partial-set VDA](#partial-set-vda)
 	- [Open-set VDA](#open-set-vda)
-	- [Universal VDA](#universal-vda)
 	- [Multi-Source VDA](#multi-source-vda)
 	- [Source-Free or Test-time VDA](#source-free-or-test-time-vda)
-	- [Black-box VDA](#black-box-vda)
+	- [Zero-shot VDA (Video Domain Generalization)]#(zero-shot-vda-video-domain-generalization)
 	- [Other Topics in Video Transfer Learning](#other-topics-in-video-transfer-learning)
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
@@ -26,7 +25,9 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 
 <!-- - [Survey](#survey) -->
 <!-- - [Multi-Target VDA](#multi-target-vda) -->
+<!-- - [Universal VDA](#universal-vda) -->
 <!-- - [Zero-shot or Few-shot VDA](#zero-shot-or-few-shot-vda) -->
+<!-- - [Black-box VDA](#black-box-vda) -->
 <!-- - [Active VDA](#active-vda) -->
 
 # Explanatory Notes
