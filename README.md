@@ -17,7 +17,7 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 	- [Open-set VDA](#open-set-vda)
 	- [Multi-Source VDA](#multi-source-vda)
 	- [Source-Free or Test-time VDA](#source-free-or-test-time-vda)
-	- [Zero-shot VDA (Video Domain Generalization)]#(zero-shot-vda-video-domain-generalization)
+	- [Zero-shot VDA (Video Domain Generalization)](#zero-shot-vda-video-domain-generalization)
 	- [Other Topics in Video Transfer Learning](#other-topics-in-video-transfer-learning)
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
