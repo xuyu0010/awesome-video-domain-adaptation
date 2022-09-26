@@ -160,7 +160,6 @@ We collect relevant datasets designed for video domain adaptation. Datasets are 
 
 **Before 2015**
 - [UCF-HMDB _<sub>small</sub>_](https://github.com/cmhungsteve/TA3N)
-(The original [link](http://cs.stanford.edu/people/karpathy/deepvideo) seems unreachable.)
 - [UCF-Olympic](https://github.com/cmhungsteve/TA3N)
 
 # Useful Tools and Other Resources
