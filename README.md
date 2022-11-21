@@ -3,6 +3,8 @@
 
 __This repo is a comprehensive collection of awesome research (papers, codes, etc.) and other items about video domain adaptation.__ 
 
+__NEW!! Our comprehensive survey on Video Unsupervised Domain Adaptation with Deep Learning is now available! Check our paper on [arXiv](https://arxiv.org/abs/2211.10412)!
+
 Domain adaptation has been a focus of research in transfer learning, enabling models to improve robustness which is crucial to apply models to real-world applications. Despite a long history of domain adaptation research, there has been limited discussions on __video domain adaptation__. This repo aims to present a collection of research on video domain adaptation including papers, code, etc. 
 
 _Feel free to star, fork or raise an issue to include your research or to add in more categories! Discussion is most welcomed!_
