@@ -65,6 +65,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Deep Domain Adaptation in Action Space](http://bmvc2018.org/contents/papers/0960.pdf) British Machine Vision Conference (BMVC) (2018)
 
 **Journal**
+- [Aligning Correlation Information for Domain Adaptation in Action Recognition](https://arxiv.org/abs/2107.04932) IEEE Transactions on Neural Networks and Learning Systems, Early Access (2022) [[Project Page]](https://xuyu0010.github.io/vuda.html)
 - [Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100](https://link.springer.com/article/10.1007/s11263-021-01531-2) International Journal of Computer Vision, Volume 130, Pages 33–55 (2022) (Open Access)
 - [Dynamic video mix-up for cross-domain action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221017318) Neurocomputing, Volume 471, Pages 358-368 (2022)
 - [A Novel Multiple-View Adversarial Learning Network for Unsupervised Domain Adaptation Action Recognition](https://ieeexplore.ieee.org/document/9543528) IEEE Transactions on Cybernetics, Early Access (2021)
@@ -75,16 +76,15 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 **ArXiv and Workshops**
 - [Unsupervised Video Domain Adaptation: A Disentanglement Perspective](https://arxiv.org/abs/2208.07365) ArXiv 2208.07365 [[Code-PyTorch]](https://github.com/ldkong1205/TranSVAE) [[Project Page]](https://ldkong.com/TranSVAE)
 - [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://arxiv.org/pdf/2207.02372.pdf) ArXiv 2207.02372 [[Code-PyTorch]](https://github.com/xing0047/TPS) (*Video Segmentation*) (*Accepted to ECCV 2022*)
-- [Aligning Correlation Information for Domain Adaptation in Action Recognition](https://arxiv.org/abs/2107.04932) ArXiv 2107.04932 [[Project Page]](https://xuyu0010.github.io/vuda.html)
 - [Temporal Attentive Alignment for Video Domain Adaptation](https://arxiv.org/abs/1905.10861v5) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2019) [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N) (Highly related to [TA3N]((http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf)))
 
 ## Partial-set VDA
 
 **Conference**
 - [Partial Video Domain Adaptation With Partial Adversarial Temporal Attentive Network](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Partial_Video_Domain_Adaptation_With_Partial_Adversarial_Temporal_Attentive_Network_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021) Oral [[Code-PyTorch]](https://github.com/xuyu0010/PATAN) [[Project Page]](https://xuyu0010.github.io/pvda.html)
+- [Calibrating Class Weights with Multi-Modal Information for Partial Video Domain Adaptation](https://dl.acm.org/doi/abs/10.1145/3503161.3548095) ACM Multimedia (ACM MM) (2022)
 
-**ArXiv and Workshops**
-- [Calibrating Class Weights with Multi-Modal Information for Partial Video Domain Adaptation](https://arxiv.org/abs/2204.06187) ArXiv 2204.06187 (*Accepted to ACMMM 2022*)
+<!-- **ArXiv and Workshops** -->
 
 
 ## Open-set VDA
@@ -109,8 +109,12 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 
 ## Source-Free or Test-time VDA
 
+**Conference**
+- [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xuyu0010/ATCoN) [[Project Page]](https://xuyu0010.github.io/sfvda.html)
+- [Self-supervised Test-time Adaptation on Video Data](https://openaccess.thecvf.com/content/WACV2022/papers/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022)
+
 **ArXiv and Workshops**
-- [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://arxiv.org/abs/2203.04559) ArXiv 2203.04559 (*Accepted to ECCV 2022*)
+- [Video Test-Time Adaptation for Action Recognition](https://arxiv.org/abs/2211.15393) ArXiv 2211.15393 [[Code]](https://github.com/wlin-at/ViTTA)
 
 
 ## Zero-shot VDA (Video Domain Generalization)
