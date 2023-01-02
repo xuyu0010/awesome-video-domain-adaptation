@@ -43,6 +43,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Closed-set VDA
 
 **Conference**
+- [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900612.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xing0047/TPS) (*Video Segmentation*) (*Accepted to ECCV 2022*)
 - [Audio-Adaptive Activity Recognition Across Video Domains](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Audio-Adaptive_Activity_Recognition_Across_Video_Domains_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Code-PyTorch]](https://github.com/xiaobai1217/DomainAdaptation) [[Project Page]](https://xiaobai1217.github.io/DomainAdaptation/)
 - [Interact before Align: Leveraging Cross-Modal Knowledge for Domain Adaptive Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Interact_Before_Align_Leveraging_Cross-Modal_Knowledge_for_Domain_Adaptive_Action_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Project Page]](https://www.ut-vision.org/publication/2022-yang-interact/)
 - [Multi-Level Attentive Adversarial Learning With Temporal Dilation for Unsupervised Video Domain Adaptation](https://openaccess.thecvf.com/content/WACV2022/papers/Chen_Multi-Level_Attentive_Adversarial_Learning_With_Temporal_Dilation_for_Unsupervised_Video_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022) [[Code-PyTorch]](https://github.com/justchenpp/MA2L-TD)
@@ -52,6 +53,8 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Domain Adaptive Video Segmentation via Temporal Consistency Regularization](https://openaccess.thecvf.com/content/ICCV2021/papers/Guan_Domain_Adaptive_Video_Segmentation_via_Temporal_Consistency_Regularization_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021) [[Code-PyTorch]](https://github.com/Dayan-Guan/DA-VSN) (*Video Segmentation*)
 - [Unsupervised Curriculum Domain Adaptation for No-Reference Video Quality Assessment](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Unsupervised_Curriculum_Domain_Adaptation_for_No-Reference_Video_Quality_Assessment_ICCV_2021_paper.pdf) IEEE/CVF International Conference on Computer Vision (ICCV) (2021) [[Code-PyTorch]](https://github.com/cpf0079/UCDA) (*Video Quality Assessment (VQA)*)
 - [Spatio-temporal Contrastive Domain Adaptation for Action Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Song_Spatio-temporal_Contrastive_Domain_Adaptation_for_Action_Recognition_CVPR_2021_paper.html) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2021)
+- [Unsupervised Domain Adaptation for Spatio-Temporal Action Localization](http://faculty.ucmerced.edu/mhyang/papers/bmvc2020_action.pdf) British Machine Vision Conference (BMVC) (2020) (*Video Action Localization*)
+- [Adversarial Bipartite Graph Learning for Video Domain Adaptation](https://dl.acm.org/doi/abs/10.1145/3394171.3413897) ACM Multimedia (ACM MM) (2020) [[Code-PyTorch]](https://github.com/Luoyadan/MM2020_ABG)
 - [Shuffle and Attend: Video Domain Adaptation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570664.pdf) European Conference on Computer Vision (ECCV) (2020)
 - [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2020) Oral [[Code-TensorFlow]](https://github.com/jonmun/MM-SADA-code) [[Project Page]](https://jonmun.github.io/mmsada/)
 - [Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Action_Segmentation_With_Joint_Self-Supervised_Temporal_Domain_Adaptation_CVPR_2020_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2020) [[Code-PyTorch]](https://github.com/cmhungsteve/SSTDA) [[Project Page]](https://minhungchen.netlify.app/project/cdas/) (*Action Segmentation*)
@@ -75,7 +78,8 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 
 **ArXiv and Workshops**
 - [Unsupervised Video Domain Adaptation: A Disentanglement Perspective](https://arxiv.org/abs/2208.07365) ArXiv 2208.07365 [[Code-PyTorch]](https://github.com/ldkong1205/TranSVAE) [[Project Page]](https://ldkong.com/TranSVAE)
-- [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://arxiv.org/pdf/2207.02372.pdf) ArXiv 2207.02372 [[Code-PyTorch]](https://github.com/xing0047/TPS) (*Video Segmentation*) (*Accepted to ECCV 2022*)
+- [Memory Efficient Temporal & Visual Graph Model for Unsupervised Video Domain Adaptation](https://arxiv.org/abs/2208.06554) ArXiv 2208.06554
+- [Channel-Temporal Attention for First-Person Video Domain Adaptation](https://arxiv.org/pdf/2108.07846v2.pdf) ArXiv 2108.07846v2
 - [Temporal Attentive Alignment for Video Domain Adaptation](https://arxiv.org/abs/1905.10861v5) IEEE/CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW) (2019) [[Code-Pytorch]](https://github.com/cmhungsteve/TA3N) (Highly related to [TA3N]((http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf)))
 
 ## Partial-set VDA
@@ -90,6 +94,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Open-set VDA
 
 **Conference**
+- [Conditional Extreme Value Theory for Open Set Video Domain Adaptation](https://dl.acm.org/doi/10.1145/3469877.3490600) [[Code-PyTorch]](https://github.com/zhuoxiao-chen/Open-Set-Video-Domain-Adaptation) ACM Multimedia Asia (MMAsia) (2021)
 - [Dual Metric Discriminator for Open Set Video Domain Adaptation](https://ieeexplore.ieee.org/document/9413361) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021)
 
 **Journal**
@@ -129,6 +134,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Other Topics in Video Transfer Learning
 
 **Conference**
+- [CycDA: Unsupervised Cycle Domain Adaptation to Learn from Image to Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630684.pdf) European Conference on Computer Vision (ECCV) (2022)
 - [Benchmarking the robustness of Spatial-Temporal Models](https://openreview.net/forum?id=MQlMIrm3Hv5) The Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track (2021) [[Code-TensorFlow]](https://github.com/Newbeeyoung/Video-Corruption-Robustness) (*Video Robustness*)
 - [Spatial-temporal causal inference for partial image-to-video adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/16187) AAAI Conference on Artificial Intelligence (AAAI) (2021) [[Code-PyTorch]](https://github.com/ChenJinBIT/HPDA) (*Partial-Set Image-to-Video*)
 - [Image to Video Domain Adaptation Using Web Supervision](https://openaccess.thecvf.com/content_WACV_2020/papers/Kae_Image_to_Video_Domain_Adaptation_Using_Web_Supervision_WACV_2020_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2020) (*Image-to-Video*)
