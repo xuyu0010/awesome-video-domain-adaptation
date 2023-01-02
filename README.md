@@ -94,7 +94,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Open-set VDA
 
 **Conference**
-- [Conditional Extreme Value Theory for Open Set Video Domain Adaptation](https://dl.acm.org/doi/10.1145/3469877.3490600) [[Code-PyTorch]](https://github.com/zhuoxiao-chen/Open-Set-Video-Domain-Adaptation) ACM Multimedia Asia (MMAsia) (2021)
+- [Conditional Extreme Value Theory for Open Set Video Domain Adaptation](https://dl.acm.org/doi/10.1145/3469877.3490600) ACM Multimedia Asia (MMAsia) (2021) [[Code-PyTorch]](https://github.com/zhuoxiao-chen/Open-Set-Video-Domain-Adaptation)
 - [Dual Metric Discriminator for Open Set Video Domain Adaptation](https://ieeexplore.ieee.org/document/9413361) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021)
 
 **Journal**
