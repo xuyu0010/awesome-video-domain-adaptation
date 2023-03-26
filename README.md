@@ -43,6 +43,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Closed-set VDA
 
 **Conference**
+- [Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Domain_Adaptive_Video_Semantic_Segmentation_via_Cross-Domain_Moving_Object_Mixing_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Semantic Segmentation*)
 - [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900612.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xing0047/TPS) (*Video Segmentation*)
 - [Audio-Adaptive Activity Recognition Across Video Domains](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Audio-Adaptive_Activity_Recognition_Across_Video_Domains_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Code-PyTorch]](https://github.com/xiaobai1217/DomainAdaptation) [[Project Page]](https://xiaobai1217.github.io/DomainAdaptation/)
 - [Interact before Align: Leveraging Cross-Modal Knowledge for Domain Adaptive Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Interact_Before_Align_Leveraging_Cross-Modal_Knowledge_for_Domain_Adaptive_Action_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Project Page]](https://www.ut-vision.org/publication/2022-yang-interact/)
