@@ -43,6 +43,9 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Closed-set VDA
 
 **Conference**
+- []
+- [Recur, Attend or Convolve? On Whether Temporal Modeling Matters for Cross-Domain Robustness in Action Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Broome_Recur_Attend_or_Convolve_On_Whether_Temporal_Modeling_Matters_for_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023)
+- [Exploiting Instance-based Mixed Sampling via Auxiliary Source Domain Supervision for Domain-adaptive Action Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Lu_Exploiting_Instance-Based_Mixed_Sampling_via_Auxiliary_Source_Domain_Supervision_for_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Action Detection*)
 - [Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Domain_Adaptive_Video_Semantic_Segmentation_via_Cross-Domain_Moving_Object_Mixing_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Semantic Segmentation*)
 - [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900612.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xing0047/TPS) (*Video Segmentation*)
 - [Audio-Adaptive Activity Recognition Across Video Domains](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Audio-Adaptive_Activity_Recognition_Across_Video_Domains_CVPR_2022_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2022) [[Code-PyTorch]](https://github.com/xiaobai1217/DomainAdaptation) [[Project Page]](https://xiaobai1217.github.io/DomainAdaptation/)
@@ -116,12 +119,18 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Source-Free or Test-time VDA
 
 **Conference**
+- [Video Test-Time Adaptation for Action Recognition](https://arxiv.org/abs/2211.15393) ArXiv 2211.15393 [[Code]](https://github.com/wlin-at/ViTTA) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023)
 - [Overcoming Label Noise for Source-free Unsupervised Video Domain Adaptation](https://hal.science/hal-03929619/document) Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (2022)
 - [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xuyu0010/ATCoN) [[Project Page]](https://xuyu0010.github.io/sfvda.html)
 - [Self-supervised Test-time Adaptation on Video Data](https://openaccess.thecvf.com/content/WACV2022/papers/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022)
 
-**ArXiv and Workshops**
-- [Video Test-Time Adaptation for Action Recognition](https://arxiv.org/abs/2211.15393) ArXiv 2211.15393 [[Code]](https://github.com/wlin-at/ViTTA)
+<!-- **ArXiv and Workshops** -->
+
+
+## Target-Free VDA
+
+**Conference**
+- [Cross-Domain Video Anomaly Detection without Target Domain Adaptation](https://openaccess.thecvf.com/content/WACV2023/papers/Aich_Cross-Domain_Video_Anomaly_Detection_Without_Target_Domain_Adaptation_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Anomaly Detection*)
 
 
 ## Zero-shot VDA (Video Domain Generalization)
