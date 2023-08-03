@@ -119,7 +119,8 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Source-Free or Test-time VDA
 
 **Conference**
-- [Video Test-Time Adaptation for Action Recognition](https://arxiv.org/abs/2211.15393) ArXiv 2211.15393 [[Code]](https://github.com/wlin-at/ViTTA) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023)
+- [Video Test-Time Adaptation for Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Video_Test-Time_Adaptation_for_Action_Recognition_CVPR_2023_paper.pdf)  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023) [[Code]](https://github.com/wlin-at/ViTTA) [[Supplementary]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lin_Video_Test-Time_Adaptation_CVPR_2023_supplemental.pdf)
+- [Source-Free Video Domain Adaptation with Spatial-Temporal-Historical Consistency Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Source-Free_Video_Domain_Adaptation_With_Spatial-Temporal-Historical_Consistency_Learning_CVPR_2023_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023)
 - [Overcoming Label Noise for Source-free Unsupervised Video Domain Adaptation](https://hal.science/hal-03929619/document) Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (2022)
 - [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xuyu0010/ATCoN) [[Project Page]](https://xuyu0010.github.io/sfvda.html)
 - [Self-supervised Test-time Adaptation on Video Data](https://openaccess.thecvf.com/content/WACV2022/papers/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022)
