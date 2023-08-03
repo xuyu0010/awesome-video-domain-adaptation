@@ -43,7 +43,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Closed-set VDA
 
 **Conference**
-- [Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances](https://ieeexplore.ieee.org/document/10160416) IEEE International Conference on Robotics and Automation (ICRA) (2023) [[Code]](https://github.com/reddyav1/RoCoG-v2) [[ArXiv]](https://arxiv.org/abs/2303.10280)
+- [Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances](https://ieeexplore.ieee.org/document/10160416) IEEE International Conference on Robotics and Automation (ICRA) (2023) [[Project Page]](https://github.com/reddyav1/RoCoG-v2) [[ArXiv]](https://arxiv.org/abs/2303.10280)
 - [Recur, Attend or Convolve? On Whether Temporal Modeling Matters for Cross-Domain Robustness in Action Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Broome_Recur_Attend_or_Convolve_On_Whether_Temporal_Modeling_Matters_for_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023)
 - [Exploiting Instance-based Mixed Sampling via Auxiliary Source Domain Supervision for Domain-adaptive Action Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Lu_Exploiting_Instance-Based_Mixed_Sampling_via_Auxiliary_Source_Domain_Supervision_for_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Action Detection*)
 - [Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Domain_Adaptive_Video_Semantic_Segmentation_via_Cross-Domain_Moving_Object_Mixing_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Semantic Segmentation*)
@@ -120,7 +120,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Source-Free or Test-time VDA
 
 **Conference**
-- [Video Test-Time Adaptation for Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Video_Test-Time_Adaptation_for_Action_Recognition_CVPR_2023_paper.pdf)  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023) [[Code]](https://github.com/wlin-at/ViTTA) [[Supplementary]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lin_Video_Test-Time_Adaptation_CVPR_2023_supplemental.pdf)
+- [Video Test-Time Adaptation for Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Video_Test-Time_Adaptation_for_Action_Recognition_CVPR_2023_paper.pdf)  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023) [[Code-PyTorch]](https://github.com/wlin-at/ViTTA) [[Supplementary]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lin_Video_Test-Time_Adaptation_CVPR_2023_supplemental.pdf)
 - [Source-Free Video Domain Adaptation with Spatial-Temporal-Historical Consistency Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Source-Free_Video_Domain_Adaptation_With_Spatial-Temporal-Historical_Consistency_Learning_CVPR_2023_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023)
 - [Overcoming Label Noise for Source-free Unsupervised Video Domain Adaptation](https://hal.science/hal-03929619/document) Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (2022)
 - [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xuyu0010/ATCoN) [[Project Page]](https://xuyu0010.github.io/sfvda.html)
@@ -163,6 +163,9 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 
 # Datasets
 We collect relevant datasets designed for video domain adaptation. Datasets are designed for __closed-set__ video domain adaptation addressing __action recognition__ by default. Note that downloading some datasets may require permission. You are advised to download common action recognition datasets e.g., [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/), [UCF101](https://www.crcv.ucf.edu/data/UCF101.php), [Kinetics](https://www.deepmind.com/open-source/kinetics), which are commonly used in these cross-domain video datasets.
+
+**2023**
+- [[RoCoG-v2]](https://github.com/reddyav1/RoCoG-v2)
 
 **2021-2022**
 - [Sports-DA](https://xuyu0010.github.io/msvda.html#data-download)
