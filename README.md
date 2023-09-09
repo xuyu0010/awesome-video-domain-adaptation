@@ -125,6 +125,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Overcoming Label Noise for Source-free Unsupervised Video Domain Adaptation](https://hal.science/hal-03929619/document) Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (2022)
 - [Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) European Conference on Computer Vision (ECCV) (2022) [[Code-PyTorch]](https://github.com/xuyu0010/ATCoN) [[Project Page]](https://xuyu0010.github.io/sfvda.html)
 - [Self-supervised Test-time Adaptation on Video Data](https://openaccess.thecvf.com/content/WACV2022/papers/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022)
+- [Relative Alignment Network for Source-Free Multimodal Video Domain Adaptation](https://dl.acm.org/doi/abs/10.1145/3503161.3548009) ACM Multimedia (ACM MM) (2022)
 
 <!-- **ArXiv and Workshops** -->
 
