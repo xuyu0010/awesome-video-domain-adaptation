@@ -19,7 +19,11 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 	- [Open-set VDA](#open-set-vda)
 	- [Multi-Source VDA](#multi-source-vda)
 	- [Source-Free or Test-time VDA](#source-free-or-test-time-vda)
+   	- [Target-Free VDA](#target-free-vda)
+   	- [Few-shot VDA](#few-shot-vda)
+   	- [Continual VDA](#continual-vda)
 	- [Zero-shot VDA (Video Domain Generalization)](#zero-shot-vda-video-domain-generalization)
+   	- [Multi-Modal VDA](#multi-modal-vda)
 	- [Other Topics in Video Transfer Learning](#other-topics-in-video-transfer-learning)
 - [Datasets](#datasets)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
@@ -120,6 +124,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Source-Free or Test-time VDA
 
 **Conference**
+- [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](https://arxiv.org/abs/2308.09139) IEEE/CVF International Conference on Computer Vision (ICCV) (2023) [[Code-PyTorch]](https://github.com/giaczara/dallv)
 - [Video Test-Time Adaptation for Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Video_Test-Time_Adaptation_for_Action_Recognition_CVPR_2023_paper.pdf)  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023) [[Code-PyTorch]](https://github.com/wlin-at/ViTTA) [[Supplementary]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lin_Video_Test-Time_Adaptation_CVPR_2023_supplemental.pdf)
 - [Source-Free Video Domain Adaptation with Spatial-Temporal-Historical Consistency Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Source-Free_Video_Domain_Adaptation_With_Spatial-Temporal-Historical_Consistency_Learning_CVPR_2023_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2023)
 - [Overcoming Label Noise for Source-free Unsupervised Video Domain Adaptation](https://hal.science/hal-03929619/document) Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (2022)
@@ -136,6 +141,23 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Cross-Domain Video Anomaly Detection without Target Domain Adaptation](https://openaccess.thecvf.com/content/WACV2023/papers/Aich_Cross-Domain_Video_Anomaly_Detection_Without_Target_Domain_Adaptation_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Anomaly Detection*)
 
 
+## Few-shot VDA
+
+**Conference**
+- [Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation](https://arxiv.org/abs/2303.10451) IEEE/CVF International Conference on Computer Vision (ICCV) (2023)
+
+<!-- **ArXiv and Workshops** -->
+
+
+## Continual VDA
+
+**Conference**
+- [Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2303.10457) IEEE/CVF International Conference on Computer Vision (ICCV) (2023)
+
+**ArXiv and Workshops**
+- [Confidence Attention and Generalization Enhanced Distillation for Continuous Video Domain Adaptation](https://arxiv.org/abs/2303.10452) ArXiv 2303.10452
+
+
 ## Zero-shot VDA (Video Domain Generalization)
 
 **Conference**
@@ -143,6 +165,15 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 
 **Journal**
 - [VideoDG: generalizing temporal relations in videos to novel domains](https://ieeexplore.ieee.org/abstract/document/9556560) IEEE Transactions on Pattern Analysis and Machine Intelligence (2021)
+
+
+## Multi-Modal VDA
+The different modalities are listed for each listing.
+
+**Conference**
+- [Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2303.10457) (Modalities: RGB + 3D Point Cloud) IEEE/CVF International Conference on Computer Vision (ICCV) (2023)
+
+<!-- **ArXiv and Workshops** -->
 
 
 ## Other Topics in Video Transfer Learning
