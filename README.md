@@ -47,6 +47,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Closed-set VDA
 
 **Conference**
+- [Unsupervised Video Domain Adaptation: A Disentanglement Perspective](https://arxiv.org/abs/2208.07365) Neural Information Processing Systems (NeurIPS) 2023 [[Code-PyTorch]](https://github.com/ldkong1205/TranSVAE) [[Project Page]](https://ldkong.com/TranSVAE)
 - [Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances](https://ieeexplore.ieee.org/document/10160416) IEEE International Conference on Robotics and Automation (ICRA) (2023) [[Project Page]](https://github.com/reddyav1/RoCoG-v2) [[ArXiv]](https://arxiv.org/abs/2303.10280)
 - [Recur, Attend or Convolve? On Whether Temporal Modeling Matters for Cross-Domain Robustness in Action Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Broome_Recur_Attend_or_Convolve_On_Whether_Temporal_Modeling_Matters_for_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023)
 - [Exploiting Instance-based Mixed Sampling via Auxiliary Source Domain Supervision for Domain-adaptive Action Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Lu_Exploiting_Instance-Based_Mixed_Sampling_via_Auxiliary_Source_Domain_Supervision_for_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023) (*Video Action Detection*)
@@ -85,7 +86,6 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 - [Evaluation of local spatial–temporal features for cross-view action recognition](https://www.sciencedirect.com/science/article/pii/S092523121501125X) Neurocomputing, Volume 173, Pages 110-117 (2016)
 
 **ArXiv and Workshops**
-- [Unsupervised Video Domain Adaptation: A Disentanglement Perspective](https://arxiv.org/abs/2208.07365) ArXiv 2208.07365 [[Code-PyTorch]](https://github.com/ldkong1205/TranSVAE) [[Project Page]](https://ldkong.com/TranSVAE)
 - [Memory Efficient Temporal & Visual Graph Model for Unsupervised Video Domain Adaptation](https://arxiv.org/abs/2208.06554) ArXiv 2208.06554
 - [Channel-Temporal Attention for First-Person Video Domain Adaptation](https://arxiv.org/pdf/2108.07846v2.pdf) ArXiv 2108.07846v2
 - [Unsupervised Domain Adaptation for Video Semantic Segmentation](https://arxiv.org/abs/2107.11052) ArXiv 2107.11052
