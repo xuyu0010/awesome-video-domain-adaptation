@@ -25,7 +25,7 @@ _Feel free to star, fork or raise an issue to include your research or to add in
 	- [Zero-shot VDA (Video Domain Generalization)](#zero-shot-vda-video-domain-generalization)
    	- [Multi-Modal VDA](#multi-modal-vda)
 	- [Other Topics in Video Transfer Learning](#other-topics-in-video-transfer-learning)
-- [Datasets](#datasets)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Useful Tools and Other Resources](#useful-tools-and-other-resources)
 
 
@@ -193,8 +193,11 @@ The different modalities are listed for each listing.
 - [Recur, Attend or Convolve? On Whether Temporal Modeling Matters for Cross-Domain Robustness in Action Recognition](https://arxiv.org/abs/2112.12175) ArXiv 2112.12175
 
 
-# Datasets
+# Datasets and Benchmarks
 We collect relevant datasets designed for video domain adaptation. Datasets are designed for __closed-set__ video domain adaptation addressing __action recognition__ by default. Note that downloading some datasets may require permission. You are advised to download common action recognition datasets e.g., [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/), [UCF101](https://www.crcv.ucf.edu/data/UCF101.php), [Kinetics](https://www.deepmind.com/open-source/kinetics), which are commonly used in these cross-domain video datasets.
+
+**2024**
+- [[XOV-Action]]([https://github.com/reddyav1/RoCoG-v2](https://github.com/KunyuLin/XOV-Action/))
 
 **2023**
 - [[RoCoG-v2]](https://github.com/reddyav1/RoCoG-v2)
