@@ -49,6 +49,7 @@ Note: *This repository is inspired by the [ADA](https://github.com/zhaoxin94/awe
 ## Closed-set VDA
 
 **Conference**
+- [Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training (UNITE)](https://openaccess.thecvf.com/content/CVPR2024/papers/Reddy_Unsupervised_Video_Domain_Adaptation_with_Masked_Pre-Training_and_Collaborative_Self-Training_CVPR_2024_paper.pdf) IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (2024) [[Code-PyTorch]](https://github.com/reddyav1/unite)  [[ArXiv]](https://arxiv.org/abs/2312.02914)
 - [Unsupervised Video Domain Adaptation: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m) Neural Information Processing Systems (NeurIPS) 2023 [[Code-PyTorch]](https://github.com/ldkong1205/TranSVAE) [[Project Page]](https://ldkong.com/TranSVAE)
 - [Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances](https://ieeexplore.ieee.org/document/10160416) IEEE International Conference on Robotics and Automation (ICRA) (2023) [[Project Page]](https://github.com/reddyav1/RoCoG-v2) [[ArXiv]](https://arxiv.org/abs/2303.10280)
 - [Recur, Attend or Convolve? On Whether Temporal Modeling Matters for Cross-Domain Robustness in Action Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Broome_Recur_Attend_or_Convolve_On_Whether_Temporal_Modeling_Matters_for_WACV_2023_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2023)
